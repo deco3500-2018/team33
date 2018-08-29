@@ -1,12 +1,14 @@
 # Team33
-Social Integration Impact on elderly using VR
-Alleviating social insolation within the elderly community through VR
+
+Alleviating social insolation through use of virtual enviroments within the elderly community.
 
 # Index
 
-*https://github.com/thegodfatherv/team33/wiki/Proposal
+* https://github.com/thegodfatherv/team33/wiki/Proposal
 
-*https://github.com/thegodfatherv/team33/wiki
+* https://github.com/team33/wiki
+
+* https://github.com/
 
 #Team Members
 
