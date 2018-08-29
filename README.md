@@ -6,7 +6,7 @@ Alleviating social insolation through use of virtual enviroments within the elde
 
 * https://github.com/thegodfatherv/team33/wiki/Proposal
 
-* https://github.com/team33/wiki
+* https://github.com/deco3500-2018/team33/wiki
 
 * https://github.com/
 
