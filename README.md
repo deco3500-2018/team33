@@ -14,6 +14,6 @@ Alleviating social insolation through use of virtual enviroments within the elde
 
 * Jack Chen
 * Hernan Ocana
-* Sam Lai
+* Long Hin Lai (Sam)
 * Kelvin Chung
 
