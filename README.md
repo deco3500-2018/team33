@@ -1,6 +1,6 @@
 # Team33
 
-Alleviating social insolation through use of virtual enviroments within the elderly community.
+Reducing social isolation through alleviating socio-demographic risks within the elderly community.
 
 ## Index
 
