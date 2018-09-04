@@ -1,8 +1,8 @@
-## Team33
+# Team33
 
 Alleviating social insolation through use of virtual enviroments within the elderly community.
 
-# Index
+## Index
 
 * https://github.com/thegodfatherv/team33/wiki/Proposal
 
@@ -10,7 +10,7 @@ Alleviating social insolation through use of virtual enviroments within the elde
 
 * https://github.com/
 
-# Team Members
+## Team Members
 
 * Jack Chen
 * Hernan Ocana
