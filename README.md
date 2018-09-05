@@ -24,9 +24,10 @@
 | Kelvin Chung  |
 
 
-# Team33 Repository Rules :
+# Team33 Repository Rules 
 
 * For markdown ensure to use tab insteand of space then align the content properly wiht double tab
-* Do not submit broken code
-* Do not submit code that is not authored by you with the proper reference
-
+* Do not commit broken code
+* Do not commit code that is not authored by you with the proper reference
+* Comment properly your code
+* Place readeable indented code
