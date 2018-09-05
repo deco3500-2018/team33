@@ -7,7 +7,7 @@
 
 ## Proposal
 
-* https://github.com/thegodfatherv/team33/wiki/Proposal
+* https://github.com/team33/wiki/Proposal
 
 ## Team Members
 
