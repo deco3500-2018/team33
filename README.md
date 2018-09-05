@@ -27,4 +27,6 @@
 # Team33 Repository Rules :
 
 For Markdown ensure to use tab insteand of space then align the content properly wiht double tab
+Do not submit broken code
+Do not submit code that is not authored by you with the proper reference
 
