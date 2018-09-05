@@ -12,13 +12,8 @@ Reducing social isolation through alleviating socio-demographic risks within the
 
 ## Team Members
 
-| Team Members    Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
-
-|            Team Members       |
+|        Team   | Members       |
 | ------------- | ------------- |
 |   CJack Che   |  Hernan Ocana |
 | Long Hin Lai  | Kelvin Chung  |
