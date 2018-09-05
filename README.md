@@ -3,7 +3,7 @@
 Reducing social isolation through alleviating socio-demographic risks within the elderly community.
 
 # Index
-##Team Presentation
+## Team Presentation
 * https://github.com/deco3500-2018/team33/wiki
 ##Proposal
 
