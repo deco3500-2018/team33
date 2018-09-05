@@ -12,13 +12,19 @@
 ## Team Members
 
 
-| Firs Names  | Last Names  | User  | 
-| ------------- |  ------------ |
-|    Jack Che   |  Hernan Ocana |
-| Long Hin Lai  | Kelvin Chung  |
+| Firs Names  | Last Names  | User          | 
+| ----------- |  --------   | ------------  |
+|Hernan Isaac | Ocana Flores| thegodfatherv |
+
+
+(Add yourselves following the format)
+| Jack        | Chen        | 
+
+| Long Hin Lai 
+| Kelvin Chung  |
 
 
 # Team33 Repository Rules :
 
-For Markdown ensure to use tab insteand of space then align the content properly
+For Markdown ensure to use tab insteand of space then align the content properly wiht double tab
 
