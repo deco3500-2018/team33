@@ -11,8 +11,9 @@ Reducing social isolation through alleviating socio-demographic risks within the
 * https://github.com/thegodfatherv/team33/wiki/Proposal
 
 ## Team Members
+
 |            Team Members       |
 | ------------- | ------------- |
 |   CJack Che   |  Hernan Ocana |
-| Long Hin Lai (Sam) | Kelvin Chung  |
+| Long Hin Lai  | Kelvin Chung  |
 
