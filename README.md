@@ -15,12 +15,13 @@
 | First Names  | Last Names  | User         | 
 | ----------- |  --------   | ------------  |
 |Hernan Isaac | Ocana Flores| thegodfatherv |
-| ----------- |  --------   | ------------  |
 | Jack        | Chen        | uekiai        |
+
+
 (Add yourselves following the format)
 
 
-| Long Hin Lai 
+| Long Hin Lai  |
 | Kelvin Chung  |
 
 
