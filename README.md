@@ -7,7 +7,7 @@
 
 ## Proposal
 
-* https://github.com/team33/wiki/Proposal
+* https://github.com/deco3500-2018/team33/wiki/Team-Proposal
 
 ## Team Members
 
