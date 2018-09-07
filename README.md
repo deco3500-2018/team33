@@ -1,5 +1,5 @@
 # Team33 
-## Reducing social isolation through alleviating socio-demographic risks factors among communities.
+## Reducing social isolation through alleviating socio-demographic risks among elderly communities.
 
 # Index
 ## Team Home
@@ -16,13 +16,10 @@
 | ----------- |  --------   | ------------  |
 |Hernan Isaac | Ocana Flores| thegodfatherv |
 | Jack        | Chen        | uekiai        |
+|Ka Wang Kelvin|Chung       |kelvincys      |
+|Long Hin      |Lai         |
 
 
-(Add yourselves following the format)
-
-
-| Long Hin Lai  |
-| Kelvin Chung  |
 
 
 # Team33 Repository Rules 
