@@ -1,5 +1,5 @@
 # Team33 
-## Reducing social isolation through alleviating socio-demographic risks among elderly communities.
+## Reducing social isolation through alleviating socio-demographic risks factors among communities.
 
 # Index
 ## Team Home
