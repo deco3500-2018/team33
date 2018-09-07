@@ -12,13 +12,13 @@
 ## Team Members
 
 
-| Firs Names  | Last Names  | User          | 
+| First Names  | Last Names  | User         | 
 | ----------- |  --------   | ------------  |
 |Hernan Isaac | Ocana Flores| thegodfatherv |
-
-
+| ----------- |  --------   | ------------  |
+| Jack        | Chen        | uekiai        |
 (Add yourselves following the format)
-| Jack        | Chen        | 
+
 
 | Long Hin Lai 
 | Kelvin Chung  |
