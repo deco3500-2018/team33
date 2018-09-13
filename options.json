@@ -5,7 +5,9 @@
     "category-1": "{{{subitems}}}\n"
   },
   "rules": {
-    "exclude": [],
+    "exclude": [
+      "Test.md"
+    ],
     "order": [
       "Home.md"
     ]
