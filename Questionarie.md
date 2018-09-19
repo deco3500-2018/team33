@@ -33,7 +33,7 @@ How comfortable do you feel when you see the following technology/interface?(sca
 
 * target audience do interact with technology and they believe 
 
-* The participants mentioned several issues with theor current method of communnication, these include:	`
+* The participants mentioned several issues with theor current method of communnication, these include:	
 
 
 
