@@ -10,7 +10,7 @@
 
 ### Feedback
 > **From Course coordinator:** 
-> Focus on various of approaches rather than on a sole one. Eg: Interviews, Cultural Props 
+> Focus on various of approaches rather than on a sole one. Eg: Interviews, Cultural Probes 
 
 > **From Tutor/s:**
 > Focus on Users understanding even if they are not categorized to your target audience as might apply to solve the social isolation
