@@ -1,7 +1,7 @@
 # Insigths / Data from interview #3
 
 * Active person:
-Doing grandson, going to the gym, communative work,
+* Visiting grandson, going to the gym, communative work,
 
 * Should had ask face to face
 
