@@ -1,11 +1,11 @@
 # Interview Questions:
 
-* What brings you to the library today?
+* What brings you to this place today?
 * Describe a typical day for you?
 * How many people do you contact during a typical day?
 * How many of those people are close friends/family?
 * What methods communicate with your family and friends? 
-* How often?
+* How often is it each time you communicate with them?
 * How far are your family and friends living from your home place?
 * What are barriers to communicate with your friends/ families? Different barriers?
 * What would improve communication with your loved ones?
