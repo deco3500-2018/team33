@@ -20,7 +20,7 @@ How hard is for you to come to this space from your home place?
 How difficult is it for you to communication with family/friends
 How comfortable do you feel when you see the following technology/interface?(scale)
 
-#Changes during the interview
+# Changes during the interview
 
 * What brings you to this place today? Because the set up was changed 
 
