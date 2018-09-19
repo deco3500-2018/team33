@@ -1,6 +1,6 @@
 # Initial requirements 
 
-# Purpose Based on Isigths 
+# Purpose Based on Insights 
 ## MUST EXIST 2 Players
 * Main purpose to help them connect with family and friends
 * Secondary to help them reach out for new people usign social systems 
@@ -19,7 +19,7 @@
 * Needs to provide all methods of input
 * Accesibility
 
-## POssible Ideas:
+## Possible Ideas:
 1. virtual reality (2 people and 2 cameras to show their point of view so they will be seeing what the other seeis ) chat formum that provides non-real time communication through different modes (text, audio/visual).
  
 1. A VR world that enable people to having their second live inside. They can meeet new people or their friend or family inside the world. We may also include RPG inside the game in order to increase the possibility user communicate with each order.
