@@ -29,10 +29,19 @@ How comfortable do you feel when you see the following technology/interface?(sca
 * Distance with close friends and familly make the people at risk  but they did interact with several non-close indivduals 
 
 
-# Insigths
+# Insights
 
 * target audience do interact with technology and they believe 
 
 * The participants mentioned several issues with theor current method of communnication, these include:	`
+
+# Video 2:
+- Participant is retired and does voluntary work. 
+- Comes in contact with a range of 5 - 50 a day due to voluntary work.
+- Close friends and family seem a bit less regular, "this one today or that one tomorrow..."
+- Method of communication is email, phone, face to face. 
+- Most of the family lives in another city, but distance does not seem to be a problem to her. 
+- Prefers email rather than phone because of her disabilites (deaf)
+- Does not mention any barriers that originate from her current method of communications apart from her deafness and internet connection. 
 
 
