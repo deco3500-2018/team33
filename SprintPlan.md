@@ -10,7 +10,7 @@
 
 ### Feedback
 > **From Course coordinator:** 
-> Focus on various of approaches rather than on a sole one. Eg: Interviews, Cultural Props 
+> Focus on various of approaches rather than on a sole one. Eg: Interviews, Cultural Probes 
 
 > **From Tutor/s:**
 > Focus on Users understanding even if they are not categorized to your target audience as might apply to solve the social isolation
@@ -50,6 +50,8 @@ For system requirements and definition of design the team requires further insig
 **_Assumption_**
 
 _The participants do not like to being recorded_
+
+_The target audience are not keen on being interviewed_
 
 *But Team had decided to ask for permission on record both audio and Video to participants in order to capture their response
 

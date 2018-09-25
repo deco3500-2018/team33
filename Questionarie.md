@@ -1,11 +1,11 @@
 # Interview Questions:
 
-* What brings you to the library today?
+* What brings you to this place today?
 * Describe a typical day for you?
 * How many people do you contact during a typical day?
 * How many of those people are close friends/family?
 * What methods communicate with your family and friends? 
-* How often?
+* How often is it each time you communicate with them?
 * How far are your family and friends living from your home place?
 * What are barriers to communicate with your friends/ families? Different barriers?
 * What would improve communication with your loved ones?
@@ -20,7 +20,7 @@ How hard is for you to come to this space from your home place?
 How difficult is it for you to communication with family/friends
 How comfortable do you feel when you see the following technology/interface?(scale)
 
-#Changes during the interview
+# Changes during the interview
 
 * What brings you to this place today? Because the set up was changed 
 
@@ -33,7 +33,7 @@ How comfortable do you feel when you see the following technology/interface?(sca
 
 * target audience do interact with technology and they believe 
 
-* The participants mentioned several issues with theor current method of communnication, these include:	`
+* The participants mentioned several issues with theor current method of communnication, these include:	
 
 
 

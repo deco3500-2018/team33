@@ -1,30 +1,27 @@
 # Insigths / Data from interview #3
 
 * Active person:
-Doing grandson, going to the gym, communative work,
+* Visiting grandson, going to the gym, communative work,
 
-Should had ask face to face
+* Should had ask face to face
 
-5-6 day people interacting (Not actually their family)
+* 5-6 day people interacting (Not actually their family)
 
-Close friends, depend not constant- due to live
+* Close friends, depend not constant- due to live
 
-face to face,
-whatshapp
-telephone
-face time
+* face to face,whatshapp, telephone,face time
 
-She prefers face to face and entonation of voice
+* She prefers face to face and entonation of voice
 
-They do not prefer text to text, and somnetimes the information can be misunderstood
+* They do not prefer text to text, and somnetimes the information can be misunderstood
 
-Sometimes they are on a rush
+* Sometimes they are on a rush
 
-schedule time
+* schedule time
 
-Face time, is the preferrable
+* Face time, is the preferrable
 
-But not real time
+* But not real time
 
 
 Mom: will use only telephone
