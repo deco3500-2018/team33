@@ -20,6 +20,6 @@
 
 # Focus 
 
-* Needs to switch focus instead of communication towards whether they are available for talkin  
+* Needs to switch focus instead of communication towards availability for communication, feeling  
 
 
