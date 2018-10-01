@@ -13,7 +13,8 @@ The project our team wants to produce is to create an immersive experience for o
 Social isolation is a state of complete or near-complete lack of contact between an individual and society. It differs from loneliness, which reflects a temporary lack of contact with other humans (Hanratty, 2012). Whilst this state exists in many communities, studies show that it increasing in prevalence within the elderly community. Specifically, community studies conducted in the UK reported rates of severe loneliness among adults aged over 65 are over 15%, while at any one given time up to 32% of individuals aged over 55 feel lonely and socially isolated (Valtorta, 2012).
 
 Factors that are found to lead to social isolation within the elderly community are :
-* Socio-demographic risks (not being married, not having children etc.) (Gierveld, J. D., 2016)
+* Socio-demographic risks (not being married, not having children etc.) (Gierveld, J. D., 2006)
+* Younger genaraion dont like interaction with elderly (Gierveld, J. D., 2006)
 * Health status risks (Alzheimer’s disease and dementia, obesity, increased vascular resistance etc.) (Gierveld, J. D., 2016)
 * Life event risks (Experience of loss of a loved one) (Gierveld, J. D., 2016)
 
@@ -134,7 +135,7 @@ Retrieved from:https://research.vu.nl/ws/portalfiles/portal/2173239
 - Pettigrew S, Robert Donovan, Duncan Boldy & Robert Newton (2014) Older people's perceived causes of and strategies for dealing with social isolation, Aging & Mental Health, 18:7, 914-920, DOI: 10.1080/13607863.2014.899970 accesible at : https://www.tandfonline.com/doi/pdf/10.1080/13607863.2014.899970?needAccess=true
 - Shapiro S., "Social isolation in the elderly", InnovAiT: Education and inspiration for general practice, vol. 10, no. 2, pp. 121-122, 2016. Available at: http://journals.sagepub.com.ezproxy.library.uq.edu.au/doi/pdf/10.1177/17557380166 75377  
 - Šimonová I Klímová B, Poulová P. & Pražák P., (2017) The use of ICT devices by older people with a special focus on their type and respondents’ age: A Czech case study, Educational Gerontology, 43:12, 641-649, DOI: 10.1080/03601277.2017.1386351
-- Jeff Anderson (2018) Seniors Living, Retrieved from:  https://www.aplaceformom.com/blog/help-seniors-avoid-social-isolation-8-14-2014/
+- Jeff Anderson (2018) "Seniors Living", A place for Mom. Retrieved from:  https://www.aplaceformom.com/blog/help-seniors-avoid-social-isolation-8-14-2014/
 - Wagner N. 2010, Computer use by older adults:A multi-diciplinary revie. Advancing Educational Research on Computer-supported Collaborative Learning (CSCL) through the use of gStudy CSCL Tools . Retrieved from: https://www-sciencedirect-com.ezproxy.library.uq.edu.au/science/article/pii/S0747563210000695
 - Valtorta, N., & Hanratty, B. (2012). Loneliness, isolation and the health of older adults: do we need a new research agenda? Journal of the Royal Society of Medicine, 105(12), 518–522. http://doi.org/10.1258/jrsm.2012.120128
 
