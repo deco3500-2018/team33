@@ -125,6 +125,10 @@ Brief Description:  The team will submit the final prototype and do the showcase
 - Chen K. & Chan  A. 2014 Gerontechnology acceptance by
 elderly Hong Kong Chinese: a senior technology acceptance model (STAM), Ergonomics, 57:5,
 635-652, DOI: 10.1080/00140139.2014.895855 retrieved from: https://doi.org/10.1080/00140139.2014.89585
+
+Gierveld, J. D., Tilburg T., Dvkstra  A., 2016. "Loneliness and Social Isolation"  The Oublisher, The Vol pp, 
+Retrieved from:https://research.vu.nl/ws/portalfiles/portal/2173239
+
 - Hawton, C. Green, A. Dickens, S. Richards, R. Taylor, R. Edwards, C. Greaves and J. Campbell, "The impact of social isolation on the health status and health related quality of life of older people", Quality of Life Research, vol. 20, no. 1, pp. 57- 67, 2010. Available at: https://link-springercom.ezproxy.library.uq.edu.au/article/10.1007/s11136-010-9717-2 
 - Khosravi P. Rezvani A. 2016, The impact of technology on older adults' social isolation,Computer in Human Behaviour, pp 594-603 . Retrieved from: https://www-sciencedirect-com.ezproxy.library.uq.edu.au/science/article/pii/S0747563216304289
 - Pettigrew S, Robert Donovan, Duncan Boldy & Robert Newton (2014) Older people's perceived causes of and strategies for dealing with social isolation, Aging & Mental Health, 18:7, 914-920, DOI: 10.1080/13607863.2014.899970 accesible at : https://www.tandfonline.com/doi/pdf/10.1080/13607863.2014.899970?needAccess=true
