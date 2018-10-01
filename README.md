@@ -2,12 +2,16 @@
 ## Reducing social isolation through alleviating socio-demographic risks among elderly communities.
 
 # Index
-## Team Home
-* https://github.com/deco3500-2018/team33/wiki
 
-## Proposal
+  * [Home](./Home.md)
+  * [Proposal](./Proposal.md)
+  * [SprintPlan](./SprintPlan.md)
+    * [Interviews](./InterviewsSetOne.md)
+    * [Questionarie](./Questionarie.md)
+    * [Initial Requirements](./initialRequirement.md)
+  * [Sprint Plan 2](./SprintPlan2.md)
+    * [Scenario](./scenario.md)
 
-* https://github.com/deco3500-2018/team33/wiki/Team-Proposal
 
 ## Team Members
 
