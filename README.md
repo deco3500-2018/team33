@@ -7,7 +7,15 @@
 
 ## Proposal
 
-* https://github.com/deco3500-2018/team33/wiki/Team-Proposal
+  * [Home](./Home.md)
+  * [Proposal](./Proposal.md)
+  * [SprintPlan](./SprintPlan.md)
+    * [Interviews](./InterviewsSetOne.md)
+    * [Questionarie](./Questionarie.md)
+    * [Initial Requirements](./initialRequirement.md)
+  * [Sprint Plan 2](./SprintPlan2.md)
+    * [Scenario](./scenario.md)
+
 
 ## Team Members
 
