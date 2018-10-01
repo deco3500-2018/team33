@@ -1,10 +1,9 @@
   * [Home](./Home.md)
   * [Proposal](./Proposal.md)
   * [SprintPlan](./SprintPlan.md)
-    * [Interviews#1](./Interviews#1.md)
+    * [Interviews](./Interviews#1.md)
     * [Questionarie](./Questionarie.md)
-    * [initialRequirement](./initialRequirement.md)
-    
+    * [Initial Requirements](./initialRequirement.md)
   * [SprintPlan2](./SprintPlan2.md)
     * [scenario](./scenario.md)
 
