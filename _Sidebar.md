@@ -1,4 +1,4 @@
-  * [Home](./Home)
+  * [Home](./Home.md)
   * [Proposal](./Proposal)
   * [Questionarie](./Questionarie)
   * [SprintPlan](./SprintPlan)
