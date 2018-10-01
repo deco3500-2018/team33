@@ -5,9 +5,18 @@
     "category-1": "{{{subitems}}}\n"
   },
   "rules": {
-    "exclude": [],
+    "exclude": [
+      "Home.md",
+      "initialRequirement.md",
+      "insigth3.md",
+      "Proposal.md",
+      "Questionarie.md",
+      "scenario.md",
+      "SprintPlan.md",
+      "SprintPlan2.md"
+    ],
     "order": [
-      "Home.md"
+      null
     ]
   },
   "separator": ":-",
