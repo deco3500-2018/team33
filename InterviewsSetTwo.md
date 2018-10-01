@@ -10,4 +10,5 @@
 - Always communicate with others
 - Do have friends and family oversea
 - Usually contact people with facebook message
+- It is a snowball if you miss someone contact
 - It is good to have a reminder because it is easy to forget to contact someone back
