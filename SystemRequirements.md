@@ -37,6 +37,8 @@ Maybe 3rd idea isnt feasible
 1. An app  where the mother shows the availability of her schedule, and on family will luminate to remember calling their grandmas
 
 1. A secretary application that reminds people if someone contact them and setting calendar for contacting someone.
+
+1. VR simulation life that people can meet eaxh other in the other world
  
 ## Diificulties with the ideas  
 
