@@ -1,6 +1,6 @@
 <?php
-session_start();
-}
+
+
 
 ?>
 <!DOCTYPE html>
@@ -17,13 +17,11 @@ session_start();
 <body>
 	<form class="login animate" action="login.php" name="myForm" method="post">
                   
-
-              <div class="container">
-                <input type="username" placeholder="Enter Username" name="username">
+                <input type="text" placeholder="Enter Username" name="username">
                 <input type="password" placeholder="Enter Password" name="password">        
-                <input type="button" value="Login" onClick="submit" class="popbutton">    
-              </div>
+                <input type="submit" value="Login"  class="popbutton">    
+
               
-            </form>
+    </form>
 </body>
 </html>
