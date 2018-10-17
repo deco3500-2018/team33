@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 12, 2018 at 10:15 PM
+-- Generation Time: Oct 17, 2018 at 04:47 AM
 -- Server version: 10.1.31-MariaDB
 -- PHP Version: 7.2.3
 
@@ -40,6 +40,46 @@ CREATE TABLE `login` (
 INSERT INTO `login` (`username`, `password`) VALUES
 ('sender', 'sender'),
 ('receive', 'receive');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `noti`
+--
+
+CREATE TABLE `noti` (
+  `notino` int(11) NOT NULL,
+  `sendername` varchar(10) COLLATE utf8_unicode_ci NOT NULL,
+  `receivename` varchar(10) COLLATE utf8_unicode_ci NOT NULL,
+  `replied` int(1) NOT NULL DEFAULT '0'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+--
+-- Dumping data for table `noti`
+--
+
+INSERT INTO `noti` (`notino`, `sendername`, `receivename`, `replied`) VALUES
+(1, 'sender', 'receive', 0);
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `noti`
+--
+ALTER TABLE `noti`
+  ADD PRIMARY KEY (`notino`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `noti`
+--
+ALTER TABLE `noti`
+  MODIFY `notino` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

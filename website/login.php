@@ -8,6 +8,11 @@ session_start();
 	 	header('Location: ' . $_SERVER['HTTP_REFERER']);
 	}
 
+	 else if ($username = "sender" && $password ="sender") {
+	  	$_SESSION['account'] = "sender";
+	 	header("Location: sender.php");
+	 	exit();
+ 	}
  	else if ($username = "receive" && $password ="receive") {
  		echo "1";
 	 	$_SESSION['account'] = "receive";
