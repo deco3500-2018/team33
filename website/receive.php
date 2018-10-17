@@ -2,7 +2,10 @@
 session_start();
 if ($_SESSION['account'] != "receive"){
 	header('Location: ' . $_SERVER['HTTP_REFERER']);
+	
 }
+include_once("dbtools.inc.php");
+$link = create_connection();
 
 ?>
 <!DOCTYPE html>
@@ -17,9 +20,34 @@ if ($_SESSION['account'] != "receive"){
 </head>
 
 <body>
-	You have receive a notifaction from "username". Please choose an action.<br>
-	<button>Plan Contact</button>
-	<button>Dismiss</button>
+	<?php
+		$sql = "SELECT * FROM noti WHERE receivename='receive' AND replied ='0'";
+    	$result = execute_sql($link, "deco3500", $sql) or die(mysqli_error($link));
+    	if (mysqli_num_rows($result) != 0){
+    		foreach($result as $row) {
+        		echo "You have a notifaction from sam. Please choose an action<br>";
+        		echo "<form method='post' action='contact.php'>
+    <input type='hidden' name='notiid' value=".$row['notino'].">
+    <input type='submit' value='conatct'>
+</form>";
+        		echo "<button>Dismiss</button><br>";
+    		}  
+    	}
+	?>
 
+	<script type="text/javascript">
+		
+		function contact(notino) {
+      		$.ajax({
+           type: "POST",
+           url: 'contact.php',
+           data:{notino:'notino'},
+           	success:function(html) {
+             alert(html);
+           }
+
+      });
+  	}
+	</script>
 </body>
 </html>

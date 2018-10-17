@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 17, 2018 at 04:47 AM
+-- Generation Time: Oct 17, 2018 at 06:52 AM
 -- Server version: 10.1.31-MariaDB
 -- PHP Version: 7.2.3
 
@@ -59,7 +59,10 @@ CREATE TABLE `noti` (
 --
 
 INSERT INTO `noti` (`notino`, `sendername`, `receivename`, `replied`) VALUES
-(1, 'sender', 'receive', 0);
+(1, 'sender', 'receive', 1),
+(2, 'sender', 'receive', 0),
+(3, 'sender', 'receive', 0),
+(4, 'sender', 'receive', 0);
 
 --
 -- Indexes for dumped tables
@@ -79,7 +82,7 @@ ALTER TABLE `noti`
 -- AUTO_INCREMENT for table `noti`
 --
 ALTER TABLE `noti`
-  MODIFY `notino` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `notino` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
