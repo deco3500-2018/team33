@@ -1,8 +1,8 @@
 <?php
 session_start();
-if ($_SESSION['account'] != "sender"){
-  header('Location: ' . $_SERVER['HTTP_REFERER']);
-}
+// if ($_SESSION['account'] != "sender"){
+//   header('Location: ' . $_SERVER['HTTP_REFERER']);
+// }
 ?>
 <!DOCTYPE html>
 <html>

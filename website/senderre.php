@@ -3,10 +3,6 @@ session_start();
 $page = $_SERVER['PHP_SELF'];
  $sec = "10";
  header("Refresh: $sec; url=$page");
-// if ($_SESSION['account'] != "receive"){
-// 	header('Location: ' . $_SERVER['HTTP_REFERER']);
-	
-// }
 include_once("dbtools.inc.php");
 $link = create_connection();
 
@@ -24,15 +20,12 @@ $link = create_connection();
 
 <body>
 	<?php
-		$sql = "SELECT * FROM noti WHERE receivename='receive' AND replied ='0'";
+		$sql = "SELECT * FROM noti WHERE receivename='receive' AND replied ='1'";
     	$result = execute_sql($link, "deco3500", $sql) or die(mysqli_error($link));
     	if (mysqli_num_rows($result) != 0){
     		foreach($result as $row) {
-        		echo "You have a notifaction from sam. Please choose an action<br>";
-        		echo "<form method='post' action='contact.php'>
-    <input type='hidden' name='notiid' value=".$row['notino'].">
-    <input type='submit' value='conatct'>
-</form>";
+        		echo "Sam has replied you<br>";
+        		echo "Contact detail<br> Date: 2018-10-15 <br> Method:Phone Call";
         		echo "<button>Dismiss</button><br>";
     		}  
     	}
