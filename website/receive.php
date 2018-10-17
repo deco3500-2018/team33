@@ -3,10 +3,8 @@ session_start();
 $page = $_SERVER['PHP_SELF'];
  $sec = "10";
  header("Refresh: $sec; url=$page");
-// if ($_SESSION['account'] != "receive"){
-// 	header('Location: ' . $_SERVER['HTTP_REFERER']);
 	
-// }
+
 include_once("dbtools.inc.php");
 $link = create_connection();
 
@@ -18,26 +16,34 @@ $link = create_connection();
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.1.9/jquery.datetimepicker.min.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.1.9/jquery.datetimepicker.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="css/template.css">
+<link rel="stylesheet" href="css/index.css">
 
 
 </head>
 
-<body>
+<body style="font-size: 25px;">
+  <div class="container centerdiv">
+  <h2>Your Notifications</h2>
 	<?php
 		$sql = "SELECT * FROM noti WHERE receivename='receive' AND replied ='0'";
     	$result = execute_sql($link, "deco3500", $sql) or die(mysqli_error($link));
     	if (mysqli_num_rows($result) != 0){
     		foreach($result as $row) {
-        		echo "You have a notifaction from sam. Please choose an action<br>";
+        		echo "<div class='container'>You have a notifaction from sam. Please choose an action<br>";
         		echo "<form method='post' action='contact.php'>
+            <span style='display: inline;'>
     <input type='hidden' name='notiid' value=".$row['notino'].">
-    <input type='submit' value='conatct'>
+    <button class='btn btn-primary d-inline-block' type='submit' value='conatct'>Contact</button>
 </form>";
-        		echo "<button>Dismiss</button><br>";
+        		echo "<button class='btn btn-danger d-inline-block'>Dismiss</button></span></div><br>";
     		}  
     	}
 	?>
-
+</div>
 	<script type="text/javascript">
 		
 		function contact(notino) {

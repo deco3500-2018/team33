@@ -14,6 +14,10 @@ $link = create_connection();
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.1.9/jquery.datetimepicker.min.css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.1.9/jquery.datetimepicker.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="css/index.css">
 
 
 </head>
@@ -24,9 +28,9 @@ $link = create_connection();
     	$result = execute_sql($link, "deco3500", $sql) or die(mysqli_error($link));
     	if (mysqli_num_rows($result) != 0){
     		foreach($result as $row) {
-        		echo "Sam has replied you<br>";
-        		echo "Contact detail<br> Date: 2018-10-15 <br> Method:Phone Call";
-        		echo "<button>Dismiss</button><br>";
+        		echo "<div class='centerdiv' id='dis'>Sam has replied you<br>";
+        		echo "Contact detail<br> Date: 2018-10-15 <br> Method:Phone Call<br>";
+        		echo "<button class='btn btn-danger'>Dismiss</button></div><br>";
     		}  
     	}
 	?>

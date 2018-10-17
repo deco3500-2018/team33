@@ -8,7 +8,7 @@ session_start();
 	 	header('Location: ' . $_SERVER['HTTP_REFERER']);
 	}
 
- 	else if ($username = "receive" && $password ="receive") {
+ 	if ($username = "receive" && $password ="receive") {
  		echo "1";
 	 	$_SESSION['account'] = "receive";
 	 	echo $_SESSION['account'];
@@ -16,7 +16,7 @@ session_start();
 	 	exit();
 	 }
 
-  	else if ($username = "sender" && $password ="sender") {
+  	if ($username = "sender" && $password ="sender") {
 	  	$_SESSION['account'] = "sender";
 	 	header("Location: sender.php");
 	 	exit();
