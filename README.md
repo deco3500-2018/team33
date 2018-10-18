@@ -13,15 +13,7 @@
     * [Scenario](./scenario.md)
 
 
-## Team Members
 
-
-| First Names  | Last Names  | User         | 
-| ----------- |  --------   | ------------  |
-|Hernan Isaac | Ocana Flores| thegodfatherv |
-| Jack        | Chen        | uekiai        |
-|Ka Wang Kelvin|Chung       |kelvincys      |
-|Long Hin      |Lai         |lai5598         |
 
 
 
