@@ -59,8 +59,9 @@ $link = create_connection();
       $result = execute_sql($link, "deco3500", $sql) or die(mysqli_error($link));
       if (mysqli_num_rows($result) != 0){
         foreach($result as $row) {
-            echo "<div class='container'>You have a notifaction from sam. Please choose an action<br>";
-            echo "<form method='post' action='contact.php'>
+		echo "<img src='img/5.jpg' width='100px'>";
+        	echo "<div class='container'>You have a notifaction from sam. Please choose an action<br>";
+        	echo "<form method='post' action='contact.php'>
             <span style='display: inline;'>
     <input type='hidden' name='notiid' value=".$row['notino'].">
     <button class='btn btn-primary d-inline-block' type='submit' value='conatact'>Contact</button>
