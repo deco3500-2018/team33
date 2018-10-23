@@ -57,7 +57,7 @@ $link = create_connection();
       $result = execute_sql($link, "deco3500", $sql) or die(mysqli_error($link));
       if (mysqli_num_rows($result) != 0){
         foreach($result as $row) {
-            echo "<div class='centerdiv' id='dis'>Sam has replied you<br>";
+            echo "<div class='centerdiv' id='dis'>Mum has replied you<br>";
             echo "Contact detail<br> Date: 2018-10-15 <br> Method:Phone Call<br>";
             echo "<button class='btn btn-primary d-inline-block' type='submit' value='Confirm' style='margin-right: 3px;'>Confirm</button>";
             echo "<button class='btn btn-danger' id='dismiss'>Dismiss</button></div><br>";

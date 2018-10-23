@@ -66,7 +66,12 @@ $link = create_connection();
     <input type='hidden' name='notiid' value=".$row['notino'].">
     <button class='btn btn-primary d-inline-block' type='submit' value='conatact'>Contact</button>
 </form>";
-            echo "<button class='btn btn-danger d-inline-block' id='dismiss'>Dismiss</button></span></div><br>";
+	echo "<form method='post' action='delete.php'>
+            <span style='display: inline;'>
+    	<input type='hidden' name='notiid' value=".$row['notino'].">
+    <button class='btn btn-danger d-inline-block' id='dismiss'>Dismiss</button></form>";
+
+            echo "</span></div><br>";
         }  
       }
   ?>
