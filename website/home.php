@@ -30,7 +30,11 @@ session_start();
     <header class="bp-header cf">
       <div class="bp-header__main">
         <span class="bp-header__present">Bridging33</span>
-        <h1 class="bp-header__title">Who are you missing?</h1><br>
+        <h1 class="bp-header__title">Want to contact someone?</h1>
+        <a href="sender.php"><button class="btn btn-primary">Contact now!</button></a><br><br>
+        <p>OR</p>
+        <h1 class="bp-header__title">Are you bored?</h1>
+        <a href="#"><button class="btn btn-primary">Contact me please!!</button></a><br><br>
       </div>
     </header>
     <button class="action action--open" aria-label="Open Menu"><span class="glyphicon glyphicon-align-justify" style="color: grey;"></span></button>
@@ -46,17 +50,6 @@ session_start();
         
     </nav>
   </div>
-   <table style="width:100%">
-    <tr>
-      <td align="center"><img src="img/1.jpg" width="100px"> <br>Dad<br><button class="btn btn-primary space" onclick="ajax()"> Invite</button></td>
-      <td align="center"><img src="img/mum.jpeg" width="100px"> <br>Mum<br><button class="btn btn-primary space" onclick="ajax()"> Invite</button></td>
-
-    </tr>
-    <tr>
-      <td align="center"><img src="img/3.jpg" width="100px"> <br>Kelvin<br><button class="btn btn-primary space" onclick="ajax()"> Invite</button></td>
-      <td align="center"><img src="img/4.jpg" width="100px"> <br>James<br><button class="btn btn-primary space" onclick="ajax()"> Invite</button></td>
-    </tr>
-  </table>
   <!-- /view -->
   <script src="js/classie.js"></script>
 
