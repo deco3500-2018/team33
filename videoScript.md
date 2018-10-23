@@ -1,20 +1,26 @@
 # Video Script 
 
-Social Isolation,is the state of complete or near complete lack of contact beteen an individual and the society. The leads for it are : 
+Social Isolation,is the state of complete or near complete lack of contact beteen an individual and the society.In the current decade up to 32% of individuals aged over 55 feel lonely and socially isolated. The symptoms that are found in these individuals are also existent in young people, specifically people who live over seas 
 
-In the current decade, almos 30% of the elderly suffer from it however every person who lives distant to their relatives is a person in risk.
 
-Social isolation is a state of complete or near-complete lack of contact between an individual and society. technology can possible to assist people indirectly to their social integration 
+The risks that lead to social isolation are : 
+
+Health status
+Life event 
+Socio Demographic: which includes, 
 
 The largest groups affected range towards elderly 
 
-However it includes people distant. From their relatives such as : 
+However it includes people distant. From their relatives such as: 
 
 Being one of the leads to. Social isolation 
 
-Introducing Together
+Introducing Bridging 33
 
-Together allows these groups to reach out their contacts And prompt to be contacted or announce to be contacted 
+Bridging 33 aims to remind the groups at risk of isolation that family and friends are available for interaction despite the socio-demographic barriers.  
+
+
+to reach out their contacts And prompt to be contacted or announce to be contacted 
 
 
 And prompt to be contacted or announce to be contacted 
