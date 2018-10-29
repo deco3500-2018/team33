@@ -1,15 +1,10 @@
 # Team33 - Reducing social isolation through alleviating socio-demographic risks among Australian communities.
 
 # Index
-#   * [Design Process](./https://github.com/deco3500-2018/team33/wiki/Design-Process-Overview)
-  * [Home](./Home.md)
-  * [Proposal](./Proposal.md)
-  * [SprintPlan](./SprintPlan.md)
-    * [Interviews](./InterviewsSetOne.md)
-    * [Questionarie](./Questionarie.md)
-    * [Initial Requirements](./initialRequirement.md)
-  * [Sprint Plan 2](./SprintPlan2.md)
-    * [Scenario](./scenario.md)
+# [Design Process](./https://github.com/deco3500-2018/team33/wiki/Design-Process-Overview)
+# [Concept Proposal](./https://github.com/deco3500-2018/team33/wiki/Concept-Proposal)
+# [Home Wiki Summary](./https://github.com/deco3500-2018/team33/wiki)
+# [Work Documentation](./https://github.com/deco3500-2018/team33/wiki/Ongoing-documentation-of-work)
 
 
 
