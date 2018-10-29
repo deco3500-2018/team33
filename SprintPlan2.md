@@ -2,9 +2,7 @@
 
 **Emotional reaction anlysys ** 
 
-> *Feedback from teacher: 
-
-> *Feeback from tutor: understand how long friend, during each method 
+> *Feeback from tutor: understand how long relationship are forming, during each stage of the method 
 
 
 # Plan 
