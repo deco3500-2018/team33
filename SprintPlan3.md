@@ -1,9 +1,7 @@
 # Sprint Plan 1  
 
-**Emotional reaction anlysys ** 
-
 > *Feedback from teacher:  Research for target audience, Master tesis, the factors of the system not only about individuals. eg: How why, would use this app.
-difference bewteen a simple reminder
+difference between a simple reminder
 Think on location in which the action can be triggered
 a suite in their homes where it signals when they are avialible to the other person. This can take the form of a light or something similiar.
 Change target demographic from elderly to broader demographic (interantional students) 
