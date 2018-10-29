@@ -1,9 +1,9 @@
 # Reducing social isolation through alleviating socio-demographic risks among Australian communities.
 # Index:
-# [Design Process](./https://github.com/deco3500-2018/team33/wiki/Design-Process-Overview)
-# [Concept Proposal](./https://github.com/deco3500-2018/team33/wiki/Concept-Proposal)
-# [Home Wiki Summary](./https://github.com/deco3500-2018/team33/wiki)
-# [Work Documentation](./https://github.com/deco3500-2018/team33/wiki/Ongoing-documentation-of-work)
+  # 1.-[Design Process](./https://github.com/deco3500-2018/team33/wiki/Design-Process-Overview)
+  # 2.-[Concept Proposal](./https://github.com/deco3500-2018/team33/wiki/Concept-Proposal)
+  # 3.-[Home Wiki Summary](./https://github.com/deco3500-2018/team33/wiki)
+  # 4.-[Work Documentation](./https://github.com/deco3500-2018/team33/wiki/Ongoing-documentation-of-work)
 
 
 
