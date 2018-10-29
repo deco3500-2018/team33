@@ -1,6 +1,6 @@
 # Sprint Plan 1  
 
-**Emotional reaction anlysys ** 
+**Emotional reaction anlysis** 
 
 > *Feeback from tutor: understand how long relationship are forming, during each stage of the method 
 
