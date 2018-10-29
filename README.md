@@ -14,8 +14,14 @@
 
 
 
+# Team33 Members 
 
-
+| First Names  | Last Names  | User         | 
+| ----------- |  --------   | ------------  |
+|Hernan Isaac | Ocana Flores| thegodfatherv |
+| Jack        | Chen        | uekiai        |
+|Ka Wang Kelvin|Chung       |kelvincys      |
+|Long Hin      |Lai         |lai5598         |
 
 
 # Team33 Repository Rules 
