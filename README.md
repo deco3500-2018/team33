@@ -1,8 +1,7 @@
-# Team33 
-## Reducing social isolation through alleviating socio-demographic risks among elderly communities.
+# Team33 - Reducing social isolation through alleviating socio-demographic risks among Australian communities.
 
 # Index
-# YOU NEED TO ADD IN YOUR DESIGN PROCESSS HERE - MAKE IT OBVIOUS
+#   * [Design Process](./https://github.com/deco3500-2018/team33/wiki/Design-Process-Overview)
   * [Home](./Home.md)
   * [Proposal](./Proposal.md)
   * [SprintPlan](./SprintPlan.md)
