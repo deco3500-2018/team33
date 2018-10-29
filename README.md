@@ -5,17 +5,17 @@
   # 3.-[_Home_ _Project_ _Summary_](https://github.com/deco3500-2018/team33/wiki)
   # 4.-[_Work_ _Documentation_ _Outcomes_](https://github.com/deco3500-2018/team33/wiki/Ongoing-documentation-of-work)
  ## **Work Documentation Rationales and Raw Data**
-  * [Interview Questionarie](./Questionarie)
-    * [InterviewsSetOne](./InterviewsSetOne)
-    * [InterviewsSetTwo](./InterviewsSetTwo)
-  * [SprintPlan](./SprintPlan)
-    * [SprintPlan2](./SprintPlan2)
-    * [SprintPlan3](./SprintPlan3)
-  * [Initial System Requirements](./initialRequirement)
-     * [Final System Requirements](./SystemRequirements)
-     * [FinalPrototype](./FinalPrototype)
-     * [Scenario of Use for Prototype](./scenario)
-  * [Video Script](./scenario)
+  * [Interview Questionarie](./Questionarie.md)
+    * [InterviewsSetOne](./InterviewsSetOne.md)
+    * [InterviewsSetTwo](./InterviewsSetTwo.md)
+  * [SprintPlan](./SprintPlan.md)
+    * [SprintPlan2](./SprintPlan2.md)
+    * [SprintPlan3](./SprintPlan3.md)
+  * [Initial System Requirements](./initialRequirement.md)
+     * [Final System Requirements](./SystemRequirements.md)
+     * [FinalPrototype](./FinalPrototype.md)
+     * [Scenario of Use for Prototype](./scenario.md)
+  * [Video Script](./scenario.md)
 
 
 # Team33 Members 
