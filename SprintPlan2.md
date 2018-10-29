@@ -14,8 +14,8 @@
 
 * The precition will reveal wheter they are actually communicating properly 
 * They do not 
-** Asumption : They do not remeber how long they communicate
 
+**Asumption** Elderly do not remeber how long they communicate
 # Focus 
 
 * Needs to switch focus instead of communication towards availability for communication, feeling  
