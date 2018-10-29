@@ -6,8 +6,8 @@
   # 4.-[_Work_ _Documentation_ _Outcomes_](https://github.com/deco3500-2018/team33/wiki/Ongoing-documentation-of-work)
  ## **Work Documentation Rationales and Raw Data**
   * [Interview Questionarie](./Questionarie.md)
-    * [InterviewsSetOne](./InterviewsSetOne.md)
-    * [InterviewsSetTwo](./InterviewsSetTwo.md)
+    * [Interviews SetOne Data Anaylysis](./InterviewsSetOne.md)
+    * [Interviews SetTwo Data Analysis](./InterviewsSetTwo.md)
   * [SprintPlan](./SprintPlan.md)
     * [SprintPlan2](./SprintPlan2.md)
     * [SprintPlan3](./SprintPlan3.md)
