@@ -6,7 +6,7 @@
   # 4. [_Ongoing Documentation of Work_](https://github.com/deco3500-2018/team33/wiki/Ongoing-documentation-of-work)
   # 5. [ Link to Prototype ](https://s4412579-bridging33.uqcloud.net/)
  ## **Work Documentation Rationales and Raw-Data Analysis**
-  * [Interview Questionarie](./Questionarie.md)
+  * [Interview Questionnaire](./Questionarie.md)
     * [Interviews SetOne Data Anaylysis](./InterviewsSetOne.md)
     * [Interviews SetTwo Data Analysis](./InterviewsSetTwo.md)
   * Sprint Plans (Stand Ups/Feedback/Rationales)
