@@ -7,11 +7,6 @@
 > **From Tutor/s:**
 > Focus on Users understanding even if they are not categorized to your target audience as might apply to solve the social isolation
 
-To do based on Feedback The team: 
-* Strength the references to have solid definitions
-* Create various approaches in case one fails when trying to engage with target audience
-* Create a environment of context for gathering insights in order to be provide sensibility  
-
 ## Plan
 * Create a questionnaire 
 
