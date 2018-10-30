@@ -1,13 +1,6 @@
 # Sprint Plan #1
 
-### Core Insights from Domain Research
-* Those who are at risk of being isolated: people who are distanced from loved ones, not having family/friends (Socio Demographic risks)
-
-
-* The Team is aware that virtual environments are somehow successful for reintegration towards society but the approaches towards alleviating social isolation are inconsistent in regards to applied technologies
-
-
-### Feedback
+## Feedback from Stand up
 > **From Course coordinator:** 
 > Focus on various of approaches rather than on a sole one. Eg: Interviews, Cultural Probes 
 
@@ -20,7 +13,7 @@ To do based on Feedback The team:
 * Create a environment of context for gathering insights in order to be provide sensibility  
 
 
-### Focus points for research sprint 
+## Focus points for research sprint 
 > 1st category
 * Daily habits of people (Daily routine)
 * Individual Hobbies 
@@ -38,7 +31,7 @@ To do based on Feedback The team:
 *  Difficulties of communicating with family/friends
 *  Distance with family members,
 
-### Rationale
+## Rationale
 For system requirements and definition of design the team requires further insight  on :
 
 * Social isolation measurement 
