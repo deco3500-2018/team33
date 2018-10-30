@@ -4,7 +4,7 @@
 
 The basic functionality of the prototype is to send a reminder to other people through a mobile interface. This would be done by accesing the person's contactcs so it can notify the other person about their desire to communicate. Risk of Isolation  - Family member (both can be sender and both can be reciver)
 
-*One functionality additional is when someone at risk desires to be contacted it will send all the contacts a small notification.
+One functionality additional is when someone at risk desires to be contacted it will send all the contacts a small notification.
  
 
 
