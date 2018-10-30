@@ -7,10 +7,10 @@
 
 
 * Simple interface that does not require high connection 
-* Applicatin need to be able to type, to record self visual and audio
+* Application need to be able to type, to record self visual and audio
 * Does not need to be live
 * Accesibility to application for people with disabilities such as low hearing 
-* the possiblity to do it wearable or application
+* The possiblity to do it wearable or application
 * people do find technology interesting and are willing to accept it given the proper documentation
 
 ## Functionality 
