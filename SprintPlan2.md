@@ -1,23 +1,13 @@
-# Sprint Plan 1  
+# Sprint Plan 2
 
-**Emotional reaction anlysis** 
-
-> *Feeback from tutor: understand how long relationship are forming, during each stage of the method 
+**Feeback from stand up**
+Get information in relation to how long they communicate with their family and friends during each session
 
 
 # Plan 
 
 * Refine Questionarie
-* Create a timer accurasy card to measure precise timing
 
-# Rationale 
 
-* The precition will reveal wheter they are actually communicating properly 
-* They do not 
-
-**Asumption** Elderly do not remeber how long they communicate
-# Focus 
-
-* Needs to switch focus instead of communication towards availability for communication, feeling  
 
 
