@@ -1,10 +1,10 @@
 # Reducing social isolation through alleviating socio-demographic risks among Australian communities.
 # **Index:**
-  # 1.-[_Design Process_](https://github.com/deco3500-2018/team33/wiki/Design-Process-Overview)
-  # 2.-[_Concept Proposal_](https://github.com/deco3500-2018/team33/wiki/Concept-Proposal)
-  # 3.-[_Home_](https://github.com/deco3500-2018/team33/wiki)
-  # 4.-[_Ongoing Documentation of Work_](https://github.com/deco3500-2018/team33/wiki/Ongoing-documentation-of-work)
-  # 5.-[ Link to Prototype ](https://s4412579-bridging33.uqcloud.net/)
+  # 1. [_Design Process_](https://github.com/deco3500-2018/team33/wiki/Design-Process-Overview)
+  # 2. [_Concept Proposal_](https://github.com/deco3500-2018/team33/wiki/Concept-Proposal)
+  # 3. [_Home_](https://github.com/deco3500-2018/team33/wiki)
+  # 4. [_Ongoing Documentation of Work_](https://github.com/deco3500-2018/team33/wiki/Ongoing-documentation-of-work)
+  # 5. [ Link to Prototype ](https://s4412579-bridging33.uqcloud.net/)
  ## **Work Documentation Rationales and Raw-Data Analysis**
   * [Interview Questionarie](./Questionarie.md)
     * [Interviews SetOne Data Anaylysis](./InterviewsSetOne.md)
@@ -22,7 +22,7 @@
 
 ## **Instructions on how to deploy and use Bridging33**
 1. The application is hosted here: https://s4412579-bridging33.uqcloud.net/
-Application is best experience of phone. 
+(Application is best experience of phone)
 2. Log in by entering your phone number and a desired password.
 3. In the Home page, click on Interact with someone button to link to the Contact Page.
 4. Click on one of the test contacts in order to send an interaction notification to them.
