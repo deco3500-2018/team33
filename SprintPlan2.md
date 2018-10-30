@@ -2,7 +2,7 @@
 
 ## Feedback 
 
-*Feeback from tutor: Get information in relation to how long they communicate with their family and friends during each session
+> Feeback from tutor: Get information in relation to how long they communicate with their family and friends during each session
 understand how long relationship are formed, during each method of the process 
 
 ## Plan
