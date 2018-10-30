@@ -12,7 +12,7 @@ Rationale
 Pression will reveal wheter they are actually communicating properly
 
 **Asumption**
-They do not remeber how long they communicate
+Users do not remeber how long they communicate
 
 ## Focus
 
