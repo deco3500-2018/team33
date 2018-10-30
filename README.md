@@ -1,11 +1,11 @@
 # Reducing social isolation through alleviating socio-demographic risks among different communities.
-## **Index:**
-  #### 1. [_Home_](https://github.com/deco3500-2018/team33/wiki)
-  #### 2. [_Concept Proposal_](https://github.com/deco3500-2018/team33/wiki/Concept-Proposal)
-  #### 3. [_Ongoing Documentation of Work_](https://github.com/deco3500-2018/team33/wiki/Ongoing-documentation-of-work)
-  #### 4. [_Design Process_](https://github.com/deco3500-2018/team33/wiki/Design-Process-Overview) 
-  #### 5. [ Link to Prototype ](https://s4412579-bridging33.uqcloud.net/)
- ## **Work Plan, Rationales and Some Raw Data Analysis**
+# **Index:**
+  ## 1. [_Home_](https://github.com/deco3500-2018/team33/wiki)
+  ## 2. [_Concept Proposal_](https://github.com/deco3500-2018/team33/wiki/Concept-Proposal)
+  ## 3. [_Ongoing Documentation of Work_](https://github.com/deco3500-2018/team33/wiki/Ongoing-documentation-of-work)
+  ## 4. [_Design Process_](https://github.com/deco3500-2018/team33/wiki/Design-Process-Overview) 
+  ## 5. [ Link to Prototype ](https://s4412579-bridging33.uqcloud.net/)
+ ## **Work Plan, Rationales and Raw Data Analysis**
   * [Interview Questionnaire](./Questionarie.md)
     * [Interviews SetOne Data Anaylysis](./InterviewsSetOne.md)
     * [Interviews SetTwo Data Analysis](./InterviewsSetTwo.md)
