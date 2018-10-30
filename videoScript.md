@@ -26,11 +26,10 @@ It functions as a reminder system that reads the contact of the persons phone al
 
 This will prompt with a notification to the desired user 
 
-This will prompt with a notification to the desired user 
 
 Alternatively the user can reach to all its contacts to let them know it's availability 
 So they can be contacted 
 
 This systematic integration tool had been designed to sustain and improve distant people by connecting them 
 
-People will collaborate to diminish the risk of isolation by creating and ma raining bonds
+People will collaborate to diminish the risk of isolation by creating and maingaining bonds
