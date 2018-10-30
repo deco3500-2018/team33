@@ -12,8 +12,10 @@ To do based on Feedback The team:
 * Create various approaches in case one fails when trying to engage with target audience
 * Create a environment of context for gathering insights in order to be provide sensibility  
 
+## Plan
+* Create a questionnaire 
 
-## Focus points for research sprint 
+## Focus points of Questionnaire
 > 1st category
 * Daily habits of people (Daily routine)
 * Individual Hobbies 
@@ -31,13 +33,7 @@ To do based on Feedback The team:
 *  Difficulties of communicating with family/friends
 *  Distance with family members,
 
-## Rationale
-For system requirements and definition of design the team requires further insight  on :
 
-* Social isolation measurement 
-* Communication within their circle 
-* To gather insights for social activity 
-* To understand the difficulties in order to create solutions
 
 
 
