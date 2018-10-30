@@ -1,7 +1,7 @@
 # Initial requirements 2 
 
 # Purpose Based on Insights 
-## MUST be betrween 2 people
+## MUST be between 2 people
 
 * Main purpose to remind them that someone wants to communicate with them but thery are not available
 
@@ -30,7 +30,7 @@
 
 Maybe 3rd idea isnt feasible 
 
-## New dconcepts as 1/10/18 
+## New concepts as 1/10/18 
 
 1. Reminder application that people want to socialise with them even if they are unavailable or "life gets in the way". 
 
