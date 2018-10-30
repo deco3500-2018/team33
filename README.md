@@ -1,4 +1,4 @@
-# Reducing social isolation through alleviating socio-demographic risks among Australian communities.
+# Reducing social isolation through alleviating socio-demographic risks among different communities.
 # **Index:**
   # 1. [_Design Process_](https://github.com/deco3500-2018/team33/wiki/Design-Process-Overview)
   # 2. [_Concept Proposal_](https://github.com/deco3500-2018/team33/wiki/Concept-Proposal)
