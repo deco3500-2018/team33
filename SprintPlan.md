@@ -1,7 +1,6 @@
-# Meeting Minutes 
-## Issue #1 
-### Core Insights from Research Project as per 13/09/2018
+# Sprint Plan #1
 
+### Core Insights from Domain Research
 * Those who are at risk of being isolated: people who are distanced from loved ones, not having family/friends (Socio Demographic risks)
 
 
