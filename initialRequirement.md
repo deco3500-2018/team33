@@ -32,6 +32,6 @@ Maybe 3rd idea isnt feasible
 
 *  Creating authentic view, what other people sees and how they portray themselves
 
-* Creation of a game, rpgs (Elderly playing games) or  simulate enviroments, keep focus on social isolation (HOw do we keep it playing at lest between 2p) 
+* Creation of a game, rpgs (Elderly playing games) or  simulate enviroments, keep focus on social isolation (How do we keep it playing at lest between 2p) 
 
 * Differenciate with other apps, and very easy way of creator for an elderly person. make them feel they are with another person 
