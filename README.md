@@ -8,11 +8,7 @@
  ## **Index of Data & work Documentation**
   * [Interview Questionnaire](./Questionarie.md)
     * [Interviews SetOne Data Anaylysis](./InterviewsSetOne.md)
-    * [Interviews SetTwo Data Analysis](./InterviewsSetTwo.md)
-  * Sprint Plans (Stand Ups/Feedback/Rationales)
-    * [SprintPlan](./SprintPlan.md)
-    * [SprintPlan2](./SprintPlan2.md)
-    * [SprintPlan3](./SprintPlan3.md)
+    * [Interviews SetTwo Data Analysis](./InterviewsSetTwo.md)  
   * [To do list](https://github.com/deco3500-2018/team33/projects/1)
      * [Initial System Requirements](./initialRequirement.md)
      * [Final System Requirements](./SystemRequirements.md)
