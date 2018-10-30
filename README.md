@@ -13,7 +13,7 @@
     * [SprintPlan](./SprintPlan.md)
     * [SprintPlan2](./SprintPlan2.md)
     * [SprintPlan3](./SprintPlan3.md)
-  * [Plannification of Sprints](https://github.com/deco3500-2018/team33/projects/1)
+  * [To do list](https://github.com/deco3500-2018/team33/projects/1)
      * [Initial System Requirements](./initialRequirement.md)
      * [Final System Requirements](./SystemRequirements.md)
      * [FinalPrototype](./FinalPrototype.md)
