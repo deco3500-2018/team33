@@ -47,11 +47,5 @@ For system requirements and definition of design the team requires further insig
 * To gather insights for social activity 
 * To understand the difficulties in order to create solutions
 
-**_Assumption_**
 
-_The participants do not like to being recorded_
-
-_The target audience are not keen on being interviewed_
-
-*But Team had decided to ask for permission on record both audio and Video to participants in order to capture their response
 
