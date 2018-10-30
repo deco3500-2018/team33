@@ -20,10 +20,7 @@ Introducing Bridging 33
 Bridging 33 aims to remind the groups at risk of isolation that family and friends are available for interaction despite the socio-demographic barriers.  
 
 
-to reach out their contacts And prompt to be contacted or announce to be contacted 
-
-
-And prompt to be contacted or announce to be contacted 
+**Explanation of the System**
 
 It functions as a reminder system that reads the contact of the persons phone allowing easy integration system 
 
